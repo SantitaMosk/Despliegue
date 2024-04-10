@@ -1,0 +1,22 @@
+.contenedor{
+    font-size: 2rem;
+    color: darkblue;
+    align-content: center;
+}
+
+body{
+    background: dodgerblue;
+    width: 680px;
+    height: 1024px;
+}
+
+.contenedor-1{
+    font-size: 1.2rem;
+    color: gray;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    align-content: center;
+}
+
+footer{
+    align-items: end;
+}
